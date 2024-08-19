@@ -5,3 +5,4 @@ st.write(
     "Welcome to My Crafts Page."
 )
 st.image('small_boots.jpeg')
+st.image('backcover.jpeg')
