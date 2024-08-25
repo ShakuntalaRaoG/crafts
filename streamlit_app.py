@@ -11,11 +11,11 @@ st.write(
 )
 st.image('Vivekananda.jpeg')
 st.write(
-    "Vivekanandaphoto_Chicago"
+    "Vivekananda photo_Chicago"
 )
 st.image('Penholder.jpeg')
 st.write(
-    "Penholder"
+    "Pen holder"
 )
 st.image('backcover.jpeg')
 st.write(
@@ -35,24 +35,32 @@ st.write(
 )
 st.image('Trovewithflowers.jpeg')
 st.write("Trove with flowers")
+
 st.image('NewDeco.jpeg')
 st.write("New Decorative crochet")
+
 st.image('AllCoasters.jpeg')
 st.write("All Coasters")
+
 st.image('Sampleflowers.jpeg')
 st.write("Sample flowers")
+
 st.image('Cap.jpeg')
 st.write("Cap")
+
 st.image('verticalflowers.jpeg')
 st.write("Papernapkin's stand decorated")
+
 st.image('Sweater_part1.jpeg')
 st.write("Sweater_part1")
+
 st.image('Sweater_part2.jpeg')
 st.write("Sweater_part2")
+
 st.image('Sweater_1.jpeg')
-st.write("Mrs.Dillon Taught")
+st.write("Mrs.Dillon taught this design")
 st.image('Sweater_2.jpeg')
-st.write("Mrs.Vijaya Kokil's design_Indore")
+st.write("Mrs.Vijaya Kokil taught this design_Indore")
 st.image('Sweater_3.jpeg')
 st.write("Courtesy Youtube")
 st.image('Sweater_4.jpeg')
