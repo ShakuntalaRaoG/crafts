@@ -70,6 +70,8 @@ st.image('Chaircover.jpeg')
 st.write(
     "Chaircover"
 )
+st.image('Dec1.jpeg')
+st.write("Decoration1")
 
 
  
