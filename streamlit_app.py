@@ -6,7 +6,8 @@ st.write(
 )
 st.image('OmGaneshayaNamaha.jpeg')
 st.write(
-    "Sri.Ganesha"
+    "Sri.Ganeswaraya Namaha"
+
 )
 st.image('Vivekananda.jpeg')
 st.write(
@@ -18,11 +19,11 @@ st.write(
 )
 st.image('backcover.jpeg')
 st.write(
-    "backcover"
+    "back cover"
 )
 st.image('decor.jpeg')
 st.write(
-    "decor.jpeg"
+    "decoration"
 )
 st.image('small_boots.jpeg')
 st.write(
@@ -74,6 +75,8 @@ st.image('Dec1.jpeg')
 st.write("Decoration")
 st.image('FLOWER_new.jpeg')
 st.write("FLOWER_new")
+st.image('Cup&saucer.jpeg')
+st.write("Cup and Saucer")
 
 
  
