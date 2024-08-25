@@ -72,6 +72,8 @@ st.write(
 )
 st.image('Dec1.jpeg')
 st.write("Decoration1")
+st.image('FLOWER_new.jpeg')
+st.write("FLOWER_new")
 
 
  
