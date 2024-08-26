@@ -89,11 +89,13 @@ st.image('square coaster.jpeg')
 st.write("square coaster")
 st.image('Leftoverwool creation.jpeg')
 st.write("Leftoverwool creation")
+st.image('Intricate Divali design.jpeg')
+st.write("Intricate Divali design")
 
 
  
 
-
+ 
  
          
  
