@@ -58,7 +58,7 @@ st.image('Sweater_part2.jpeg')
 st.write("Sweater_part2")
 
 st.image('Sweater_1.jpeg')
-st.write("Mrs.Dillon taught this design")
+st.write("Mrs.Dhillon taught this design_Hyderabad")
 st.image('Sweater_2.jpeg')
 st.write("Mrs.Vijaya Kokil taught this design_Indore")
 st.image('Sweater_3.jpeg')
@@ -91,6 +91,8 @@ st.image('Leftoverwool creation.jpeg')
 st.write("Leftoverwool creation")
 st.image('Intricate Divali design.jpeg')
 st.write("Intricate Divali design")
+st.image('sparkling.jpeg')
+st.write("With sparkling blue&white thread")
 
 
  
