@@ -85,7 +85,10 @@ st.image('FLOWER_new.jpeg')
 st.write("FLOWER_new")
 st.image('Cup&saucer.jpeg')
 st.write("Cup and Saucer")
+st.image('square coaster.jpeg')
+st.write("square coaster")
 
 
  
          
+ 
