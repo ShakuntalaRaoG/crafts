@@ -93,6 +93,10 @@ st.image('Intricate Divali design.jpeg')
 st.write("Intricate Divali design")
 st.image('sparkling.jpeg')
 st.write("With sparkling blue&white thread")
+st.image('Gift item 1.jpeg')
+st.write("Gift items being created for Thanks Giving")
+st.image('Jasmine flowers.jpeg')
+st.write("Jasmine flowers-chair cover")
 
 
  
