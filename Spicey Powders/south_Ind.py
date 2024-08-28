@@ -17,7 +17,7 @@ def get_response_from_AI(prompt):
         return response_object
     return result
 gunpowder = TextLoader('gunpowder.txt')
-
+TextLoader=('gunpowder.txt')
 
  
 gunpowder.txt = gunpowder.txt.load()
