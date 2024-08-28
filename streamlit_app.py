@@ -21,6 +21,9 @@ st.image('backcover.jpeg')
 st.write(
     "back cover"
 )
+st.image("Cover_sofa.jpeg")
+st.write("Cover_sofa")
+
 st.image('decor.jpeg')
 st.write(
     "decoration"
@@ -59,53 +62,63 @@ st.write("Sweater_part2")
 
 st.image('Sweater_1.jpeg')
 st.write("Mrs.Dhillon taught this design_Hyderabad")
+
 st.image('Sweater_2.jpeg')
 st.write("Mrs.Vijaya Kokil taught this design_Indore")
+
 st.image('Sweater_3.jpeg')
 st.write("Courtesy Youtube")
+
 st.image('Sweater_4.jpeg')
 st.write("Courtesy Youtube")
+
+st.image('BiggersizeSweater.jpeg')
+st.write("BiggersizeSweater")
+
 st.image ('Tablespread.jpeg')
 st.write("Table spread")
+
 st.image ('With_leftoverwool.jpeg')
 st.write("With_leftoverwool")
+
 st.image ('Suarecrochet3.jpeg')
 st.write("Suare crochet")
+
 st.image('Handnitmuffler.jpeg')
 st.write(
     "Handknit Muffler"
 )
-st.image('Chaircover1.jpeg')
+
+st.image('Chaircover.jpeg')
 st.write(
     "Chaircover"
 )
-st.image('Chair cover 2.jpeg')
-st.write(
-    "Chaircover 2"
-)
-
-st.image('Chair cover 3.jpeg')
-st.write(
-    "Chaircover 3"
-)
 st.image('Dec1.jpeg')
 st.write("Decoration")
+
 st.image('FLOWER_new.jpeg')
 st.write("FLOWER_new")
+
 st.image('Cup&saucer.jpeg')
 st.write("Cup and Saucer")
+
 st.image('square coaster.jpeg')
 st.write("square coaster")
+
 st.image('Leftoverwool creation.jpeg')
 st.write("Leftoverwool creation")
+
 st.image('Intricate Divali design.jpeg')
 st.write("Intricate Divali design")
+
 st.image('sparkling.jpeg')
 st.write("With sparkling blue&white thread")
+
 st.image('Gift item 1.jpeg')
 st.write("Gift items being created for Thanks Giving")
-st.image('Jasmine flowers.jpeg')
-st.write("Jasmine flowers-chair cover")
+
+st.image('Wrap around.jpeg')
+st.write("Wrap around")
 
 
  
