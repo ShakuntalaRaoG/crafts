@@ -84,22 +84,17 @@ st.write("With_leftoverwool")
 st.image ('Suarecrochet3.jpeg')
 st.write("Suare crochet")
 
-st.image('Chaircover1.jpeg')
-st.write("Chaircover1")
+st.image('Chaircoverone.jpeg')
+st.write("Chaircoverone")
 
-st.image('Chaircover2.jpeg')
-st.write("Chaircover2")
+st.image('Chaircovertwo.jpeg')
+st.write("Chaircovertwo")
 
-st.image('Chaircover3.jpeg')
-st.write("Chaircover3")
-
- 
- 
-
+st.image('Chaircoverthree.jpeg')
+st.write("Chaircoverthree")
 
 st.image('Handknitmuffler.jpeg')
-st.write(
-    "Handknit Muffler"
+st.write("Handknit Muffler"
 )
 
  
