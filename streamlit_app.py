@@ -124,8 +124,11 @@ st.write("Intricate Divali design")
 st.image('sparkling.jpeg')
 st.write("With sparkling blue&white thread")
 
-# st.image('Gift item 1.jpeg')
-# st.write("Gift items being created for Thanks Giving")
+st.image('smallflower.jpeg')
+st.write("smallflower")
+
+st.image('Gift item 1.jpeg')
+st.write("Gift items being created for Thanks Giving")
 
 st.image('Wrap around.jpeg')
 st.write("Wrap around")
