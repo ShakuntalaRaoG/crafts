@@ -1,6 +1,7 @@
-
-
 import streamlit as st
+from langchain.document_loaders import UnstructuredURLLoader,TextLoader
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+import chromadb
 import google.generativeai as genai
 
 def get_response_from_AI(prompt):
@@ -15,25 +16,14 @@ def get_response_from_AI(prompt):
     except Exception as e:
         return response_object
     return result
+gunpowder = TextLoader('gunpowder.txt')
 
-text = """Chatnipudi ingredients:-
 
-* chanadal  1 cup,
-* Udad dal 3/4 cup,
-* Tuvar dal 1/2 cup,
-* Dry mirchi 20-25(according to your taste),
-* Dry copra  grated 1/2 cup,to fry in low flame for 2 minutes.
-* Tamarind- approximately one lemon size,
-* Jagary (gud) one tea spoon,
-* Hing 1/2 tea spoon,
-* Haldi 1 spoon.
-
-* To dry roast 1,2,3,4 separately until golden brown.
-* To add the other ingredients. 
-* After they come to room temperature, to put in a mixer and powder coarsely.  
-* Lastly heat one table spoon of oil and put mustard s.)"""
-
-response = get_response_from_AI(f"""Translate this text in English. Text : {text}
+ 
+gunpowder.txt = gunpowder.txt.load()
+#st.write(data[0].page_content)
+gunpowder = gunpowder.txt[0].page_content
+response = get_response_from_AI(f""" Trnslate gunpowder into Kannada: {gunpowder}
                      """)
 
 st.write(response)

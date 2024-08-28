@@ -75,9 +75,18 @@ st.image('Handnitmuffler.jpeg')
 st.write(
     "Handknit Muffler"
 )
-st.image('Chaircover.jpeg')
+st.image('Chaircover1.jpeg')
 st.write(
     "Chaircover"
+)
+st.image('Chair cover 2.jpeg')
+st.write(
+    "Chaircover 2"
+)
+
+st.image('Chair cover 3.jpeg')
+st.write(
+    "Chaircover 3"
 )
 st.image('Dec1.jpeg')
 st.write("Decoration")
