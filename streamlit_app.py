@@ -89,19 +89,22 @@ st.write("Chaircover1")
 
 st.image('Chaircover2.jpeg')
 st.write("Chaircover2")
+
+st.image('Chaircover3.jpeg')
+st.write("Chaircover3")
+
+ 
  
 
 
-# st.image('Handnitmuffler.jpeg')
-# st.write(
-#     "Handknit Muffler"
-# )
+st.image('Handknitmuffler.jpeg')
+st.write(
+    "Handknit Muffler"
+)
 
-# st.image('Chaircover.jpeg')
-# st.write("Chaircover"
-# )
-# st.image('Dec1.jpeg')
-# st.write("Decoration")
+ 
+st.image('Dec1.jpeg')
+st.write("Decoration")
 
 st.image('FLOWER_new.jpeg')
 st.write("FLOWER_new")
