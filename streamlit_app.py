@@ -84,17 +84,16 @@ st.write("With_leftoverwool")
 st.image ('Suarecrochet3.jpeg')
 st.write("Suare crochet")
 
-st.image('Handnitmuffler.jpeg')
-st.write(
-    "Handknit Muffler"
-)
+# st.image('Handnitmuffler.jpeg')
+# st.write(
+#     "Handknit Muffler"
+# )
 
-st.image('Chaircover.jpeg')
-st.write(
-    "Chaircover"
-)
-st.image('Dec1.jpeg')
-st.write("Decoration")
+# st.image('Chaircover.jpeg')
+# st.write("Chaircover"
+# )
+# st.image('Dec1.jpeg')
+# st.write("Decoration")
 
 st.image('FLOWER_new.jpeg')
 st.write("FLOWER_new")
@@ -114,8 +113,8 @@ st.write("Intricate Divali design")
 st.image('sparkling.jpeg')
 st.write("With sparkling blue&white thread")
 
-st.image('Gift item 1.jpeg')
-st.write("Gift items being created for Thanks Giving")
+# st.image('Gift item 1.jpeg')
+# st.write("Gift items being created for Thanks Giving")
 
 st.image('Wrap around.jpeg')
 st.write("Wrap around")
