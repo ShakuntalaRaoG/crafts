@@ -84,6 +84,9 @@ st.write("With_leftoverwool")
 st.image ('Suarecrochet3.jpeg')
 st.write("Suare crochet")
 
+st.image('Chair cover 1.jpeg')
+st.write("Chair cover 1")
+
 # st.image('Handnitmuffler.jpeg')
 # st.write(
 #     "Handknit Muffler"
