@@ -120,6 +120,8 @@ st.write("Wrap around")
 st.image('smallflower.jpeg')
 st.write("smallflower")
 
+st.image('chair_with cover.jpeg')
+st.write("chair_with cover")
  
 
 
