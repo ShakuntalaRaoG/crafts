@@ -114,6 +114,9 @@ st.write("With sparkling blue&white thread")
 st.image('Gift item 1.jpeg')
 st.write("Gift items being created for Thanks Giving")
 
+st.image('Sweater with sleeves.jpeg')
+st.write("Sweater with sleeves")
+
 st.image('Wrap around.jpeg')
 st.write("Wrap around")
 
