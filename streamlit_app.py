@@ -117,8 +117,8 @@ st.write("Gift items being created for Thanks Giving")
 st.image('Wrap around.jpeg')
 st.write("Wrap around")
 
-# st.image('Tobecompleted.jpeg')
-# st.write("Tobecompleted")
+st.image('smallflower.jpeg')
+st.write("smallflower")
 
  
 
