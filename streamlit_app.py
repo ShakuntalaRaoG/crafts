@@ -89,10 +89,7 @@ st.write(
     "Handknit Muffler"
 )
 
-st.image('Chaircover.jpeg')
-st.write(
-    "Chaircover"
-)
+
 st.image('Dec1.jpeg')
 st.write("Decoration")
 
