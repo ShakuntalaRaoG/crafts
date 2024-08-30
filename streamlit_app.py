@@ -125,6 +125,10 @@ st.write("smallflower")
 
 st.image('chair_with cover.jpeg')
 st.write("chair_with cover")
+
+st.image('chair_green cover.jpeg')
+st.write("chair_green cover")
+
  
 
 
