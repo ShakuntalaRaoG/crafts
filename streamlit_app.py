@@ -129,6 +129,8 @@ st.write("chair_with cover")
 st.image('chair_green cover.jpeg')
 st.write("chair_green cover")
 
+st.image('Chair_blue cover.jpeg')
+st.write("Chair_blue cover")
  
 
 
