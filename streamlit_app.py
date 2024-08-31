@@ -78,6 +78,18 @@ st.write("BiggersizeSweater")
 st.image ('Tablespread.jpeg')
 st.write("Table spread")
 
+st.image('chair_with cover.jpeg')
+st.write("chair_with cover")
+
+st.image('chair_green cover.jpeg')
+st.write("chair_green cover")
+
+st.image('Chair_blue cover.jpeg')
+st.write("Chair_blue cover")
+
+st.image('Doublecolor.jpeg')
+st.write("Doublecolor")
+
 st.image ('With_leftoverwool.jpeg')
 st.write("With_leftoverwool")
 
@@ -123,14 +135,7 @@ st.write("Wrap around")
 st.image('smallflower.jpeg')
 st.write("smallflower")
 
-st.image('chair_with cover.jpeg')
-st.write("chair_with cover")
 
-st.image('chair_green cover.jpeg')
-st.write("chair_green cover")
-
-st.image('Chair_blue cover.jpeg')
-st.write("Chair_blue cover")
  
 
 
