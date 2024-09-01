@@ -17,14 +17,13 @@ def get_response_from_AI(prompt):
         return response_object
     return result
 gunpowder = TextLoader('gunpowder.txt')
-TextLoader=('gunpowder.txt')
+TextLoader.txt=('gunpowder.txt')
 
- 
 gunpowder.txt = gunpowder.txt.load()
 #st.write(data[0].page_content)
 gunpowder = gunpowder.txt[0].page_content
-response = get_response_from_AI(f""" Trnslate gunpowder into Kannada: {gunpowder}
-                     """)
+response = get_response_from_AI(f"""Trnslate gunpowder into Kannada: {gunpowder.txt}""")
+
 
 st.write(response)
 
@@ -34,7 +33,6 @@ st.write(response)
 
 
 
-
-  
+ 
 
  
