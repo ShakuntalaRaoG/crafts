@@ -133,8 +133,10 @@ st.write("Double color cover")
 st.image('Dollwithcap.jpeg')
 st.write("Dollwithcap")
 
+st.image('Necklace.jpeg')
+st.write("Necklace")
 
-
+ 
 
 
  
