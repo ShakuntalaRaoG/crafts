@@ -136,6 +136,8 @@ st.write("Dollwithcap")
 st.image('Necklace.jpeg')
 st.write("Necklace")
 
+st.image('crafts/Oldest working Professor.jpeg')
+st.write("crafts/Oldest working Professor")
  
 
 
