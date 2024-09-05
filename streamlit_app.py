@@ -136,16 +136,15 @@ st.write("Dollwithcap")
 st.image('Vedas.jpeg')
 st.write("Vedas")
 
-st.image('Ganapati.jpeg')
-st.write("Ganapati")
-
+st.image('/Users/shakuntalarao/Downloads/Almostdone.jpeg')
+st.write("Almostdone")
  
- 
+st.image('/Users/shakuntalarao/crafts website/crafts/Fivecolors.jpeg')
+st.write("see fivecolors")
 
 
 
- 
- 
+  
 
 
  
