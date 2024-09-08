@@ -133,9 +133,6 @@ st.write("Double color cover")
 st.image('Dollwithcap.jpeg')
 st.write("Dollwithcap")
 
-st.image('Vedas.jpeg')
-st.write("Vedas")
-
 st.image('/Users/shakuntalarao/Downloads/Almostdone.jpeg')
 st.write("Almostdone")
  
