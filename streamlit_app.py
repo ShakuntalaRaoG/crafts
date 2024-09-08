@@ -142,7 +142,10 @@ st.write("Almostdone")
 st.image('/Users/shakuntalarao/crafts website/crafts/Fivecolors.jpeg')
 st.write("see fivecolors")
 
+st.image('/Users/shakuntalarao/crafts website/crafts/Newsamples.jpeg')
+st.write("Newsamples")
 
+ 
 
   
 
