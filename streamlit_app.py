@@ -48,8 +48,7 @@ st.write("All Coasters")
 st.image('Sampleflowers.jpeg')
 st.write("Sample flowers")
 
-st.image('Cap.jpeg')
-st.write("Cap")
+
 
 st.image('verticalflowers.jpeg')
 st.write("Papernapkin's stand decorated")
@@ -136,9 +135,6 @@ st.write("Dollwithcap")
 st.image('/Users/shakuntalarao/Downloads/Almostdone.jpeg')
 st.write("Almostdone")
  
-st.image('/Users/shakuntalarao/crafts website/crafts/Fivecolors.jpeg')
-st.write("see fivecolors")
-
 st.image('/Users/shakuntalarao/crafts website/crafts/Newsamples.jpeg')
 st.write("Newsamples")
 
