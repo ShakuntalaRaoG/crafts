@@ -71,7 +71,6 @@ st.write("Table spread")
 st.image('Dollwithcap.jpeg')
 st.write("Dollwithcap")
 
-st.image('chair_green cover.jpeg')
-st.write("chair_green cover")
+ 
 
 
