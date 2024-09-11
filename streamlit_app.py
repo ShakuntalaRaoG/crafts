@@ -41,11 +41,8 @@ st.write("New Decorative crochet")
 st.image('verticalflowers.jpeg')
 st.write("Papernapkin's stand decorated")
 
-
-
-
-# st.image('AllCoasters.jpeg')
-# st.write("All Coasters")
+st.image('AllCoasters.jpeg')
+st.write("All Coasters")
 
 # st.image('Sampleflowers.jpeg')
 # st.write("Sample flowers")
