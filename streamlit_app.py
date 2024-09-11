@@ -65,3 +65,6 @@ st.write("Courtesy Youtube")
 st.image('Sweater_4.jpeg')
 st.write("Courtesy Youtube")
 
+st.image ('Tablespread.jpeg')
+st.write("Table spread")
+
