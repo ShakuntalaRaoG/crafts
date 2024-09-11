@@ -59,4 +59,6 @@ st.write("Mrs.Dhillon taught this design_Hyderabad")
 st.image('Sweater_2.jpeg')
 st.write("Mrs.Vijaya Kokil taught this design_Indore")
 
+st.image('Sweater_3.jpeg')
+st.write("Courtesy Youtube")
 
