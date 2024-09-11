@@ -17,6 +17,8 @@ st.image('Penholder.jpeg')
 st.write(
     "Pen holder"
 )
+st.image("Cover_sofa.jpeg")
+st.write("Cover_sofa")
 
 
 
