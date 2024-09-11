@@ -132,8 +132,8 @@ st.write("Double color cover")
 st.image('Dollwithcap.jpeg')
 st.write("Dollwithcap")
 
-st.image('Almostdone.jpeg')
-st.write("Almostdone")
+# st.image('Almostdone.jpeg')
+# st.write("Almostdone")
  
-st.image('Newsamples.jpeg')
-st.write("Newsamples")
+# st.image('Newsamples.jpeg')
+# st.write("Newsamples")
