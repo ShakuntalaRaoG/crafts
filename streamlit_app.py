@@ -35,4 +35,7 @@ st.write(
 st.image('Trovewithflowers.jpeg')
 st.write("Trove with flowers")
 
+st.image('NewDeco.jpeg')
+st.write("New Decorative crochet")
+
 
