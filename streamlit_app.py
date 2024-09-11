@@ -50,6 +50,8 @@ st.write("Sample flowers")
 st.image('Sweater_part1.jpeg')
 st.write("Sweater_part1")
 
+st.image('Sweater_part2.jpeg')
+st.write("Sweater_part2")
 
 
 
