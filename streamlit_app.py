@@ -18,9 +18,8 @@ st.write(
     "Pen holder"
 )
 st.image('backcover.jpeg')
-st.write(
-    "back cover"
-)
+st.write("back cover")
+
 st.image("Cover_sofa.jpeg")
 st.write("Cover_sofa")
 
@@ -30,8 +29,8 @@ st.write(
 )
 st.image('small_boots.jpeg')
 st.write(
-    "Tiny boots"
-)
+    "Tiny boots")
+
 st.image('Coaster.jpeg')
 st.write(
     "Coaster"
@@ -132,8 +131,3 @@ st.write("Double color cover")
 st.image('Dollwithcap.jpeg')
 st.write("Dollwithcap")
 
-# st.image('Almostdone.jpeg')
-# st.write("Almostdone")
- 
-# st.image('Newsamples.jpeg')
-# st.write("Newsamples")
