@@ -56,4 +56,7 @@ st.write("Sweater_part2")
 st.image('Sweater_1.jpeg')
 st.write("Mrs.Dhillon taught this design_Hyderabad")
 
+st.image('Sweater_2.jpeg')
+st.write("Mrs.Vijaya Kokil taught this design_Indore")
+
 
