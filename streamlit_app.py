@@ -28,5 +28,11 @@ st.image('small_boots.jpeg')
 st.write(
     "Tiny boots")
 
+st.image('Coaster.jpeg')
+st.write(
+    "Coaster"
+)
+st.image('Trovewithflowers.jpeg')
+st.write("Trove with flowers")
 
 
