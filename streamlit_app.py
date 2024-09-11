@@ -47,7 +47,8 @@ st.write("All Coasters")
 st.image('Sampleflowers.jpeg')
 st.write("Sample flowers")
 
-
+st.image('Sweater_part1.jpeg')
+st.write("Sweater_part1")
 
 
 
