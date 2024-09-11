@@ -44,8 +44,8 @@ st.write("Papernapkin's stand decorated")
 st.image('AllCoasters.jpeg')
 st.write("All Coasters")
 
-# st.image('Sampleflowers.jpeg')
-# st.write("Sample flowers")
+st.image('Sampleflowers.jpeg')
+st.write("Sample flowers")
 
 
 
