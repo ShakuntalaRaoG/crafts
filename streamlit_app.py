@@ -132,10 +132,10 @@ st.write("Double color cover")
 st.image('Dollwithcap.jpeg')
 st.write("Dollwithcap")
 
-st.image('/Users/shakuntalarao/Downloads/Almostdone.jpeg')
+st.image('Almostdone.jpeg')
 st.write("Almostdone")
  
-st.image('/Users/shakuntalarao/crafts website/crafts/Newsamples.jpeg')
+st.image('Newsamples.jpeg')
 st.write("Newsamples")
 
  
