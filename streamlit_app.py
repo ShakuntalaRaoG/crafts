@@ -53,5 +53,7 @@ st.write("Sweater_part1")
 st.image('Sweater_part2.jpeg')
 st.write("Sweater_part2")
 
+st.image('Sweater_1.jpeg')
+st.write("Mrs.Dhillon taught this design_Hyderabad")
 
 
