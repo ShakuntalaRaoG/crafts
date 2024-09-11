@@ -137,21 +137,3 @@ st.write("Almostdone")
  
 st.image('Newsamples.jpeg')
 st.write("Newsamples")
-
- 
-
-  
-
-
- 
-
- 
- 
- 
-
- 
-
- 
- 
-         
- 
