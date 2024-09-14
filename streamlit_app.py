@@ -77,8 +77,12 @@ st.write("Double color")
 st.image('GreencoloredCover.jpeg')
 st.write("Green colored Cover")
 
- 
 
+st.image('BluecoloredCover.jpeg')
+st.write("Blue colored Cover")
+
+
+ 
  
  
 
