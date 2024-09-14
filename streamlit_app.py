@@ -87,6 +87,12 @@ st.write("Square crochet")
 st.image('Chaircover_darkblue.jpeg')
 st.write("Chaircover_darkblue")
 
+
+st.image('Necklace.jpeg')
+st.write("Necklace")
+
+ 
+
  
 
  
