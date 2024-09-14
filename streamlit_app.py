@@ -82,7 +82,7 @@ st.image('BluecoloredCover.jpeg')
 st.write("Blue colored Cover")
 
 st.image('Sqarecrochet.jpeg')
-st.write("Sqare crochet")
+st.write("Square crochet")
 
 st.image('Chaircover_darkblue.jpeg')
 st.write("Chaircover_darkblue")
