@@ -84,8 +84,8 @@ st.write("Blue colored Cover")
 st.image('Sqarecrochet.jpeg')
 st.write("Sqare crochet")
 
-st.image('NewDeco.jpeg')
-st.write("New Deco")
+# st.image('NewDeco.jpeg')
+# st.write("New Deco")
  
 
  
