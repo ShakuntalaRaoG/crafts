@@ -91,6 +91,9 @@ st.write("Chaircover_darkblue")
 st.image('Necklace.jpeg')
 st.write("Necklace")
 
+st.image('Newsamples.jpeg')
+st.write("Newsamples")
+
  
 
  
