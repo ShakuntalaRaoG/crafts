@@ -71,8 +71,8 @@ st.write("Table spread")
 st.image('Dollwithcap.jpeg')
 st.write("Dollwithcap")
 
-st.image('doublecolor.jpeg')
-st.write("doublecolor")
+# st.image('Doublecolor.jpeg')
+# st.write("Double color")
 
  
  
