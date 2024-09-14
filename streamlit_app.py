@@ -71,11 +71,7 @@ st.write("Table spread")
 st.image('Dollwithcap.jpeg')
 st.write("Dollwithcap")
 
-st.image('kamalaHaris.jpeg')
-st.write("Kamala Harris")
-
-st.image('DonaldTrump.jpeg')
-st.write("DonaldTrump")
+ 
 
 
 
