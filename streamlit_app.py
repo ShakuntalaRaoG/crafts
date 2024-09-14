@@ -74,6 +74,11 @@ st.write("Dollwithcap")
 st.image('Doublecolor.jpeg')
 st.write("Double color")
 
+st.image('GreencoloredCover.jpeg')
+st.write("Green colored Cover")
+
+ 
+
  
  
 
