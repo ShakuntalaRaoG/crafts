@@ -107,8 +107,8 @@ st.write("Gift item")
 st.image('geometrical_small thread.jpeg')
 st.write("This geometrical craft was crocheted using small white thread using a steal crochet needle.")
 
-
- 
+st.image('Verticallyjoined squares.jpeg')
+st.write("Vertically joined squares") 
 
  
  
