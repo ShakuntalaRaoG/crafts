@@ -94,12 +94,10 @@ st.write("Necklace")
 st.image('Newsamples.jpeg')
 st.write("New samples")
 
- 
+st.image('inbuiltflowers.jpeg')
+st.write("inbuiltflowers")
 
 
- 
-
- 
 
  
 
