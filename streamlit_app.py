@@ -99,7 +99,7 @@ st.write("inbuiltflowers")
 
 
 st.image('Giftitem.jpeg')
-st.write("Giftitem")
+st.write("Gift item")
 
 
  
