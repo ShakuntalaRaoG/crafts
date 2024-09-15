@@ -95,7 +95,7 @@ st.image('Newsamples.jpeg')
 st.write("New samples")
 
 st.image('inbuiltflowers.jpeg')
-st.write("inbuiltflowers")
+st.write("Inbuilt flowers")
 
 
 st.image('Giftitem.jpeg')
