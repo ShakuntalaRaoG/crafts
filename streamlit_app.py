@@ -110,8 +110,8 @@ st.write("This geometrical craft was crocheted using small white thread using a 
 st.image('Verticallyjoined squares.jpeg')
 st.write("Vertically joined squares") 
 
-st.image('Deer_backyard.jpeg')
-st.write("Deer_backyard")
+# st.image('Deer_backyard.jpeg')
+# st.write("Deer_backyard")
 
  
 
