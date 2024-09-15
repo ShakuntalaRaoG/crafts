@@ -84,6 +84,9 @@ st.write("Blue colored Cover")
 st.image('Chaircover_darkblue.jpeg')
 st.write("Chaircover_darkblue")
 
+st.image('Sweater with sleeves.jpeg')
+st.write("Sweater with sleeves")
+
 st.image('Sqarecrochet.jpeg')
 st.write("Square crochet")
 
