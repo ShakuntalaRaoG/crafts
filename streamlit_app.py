@@ -114,7 +114,7 @@ st.image('rosesandleaves_matee cloth.jpeg')
 st.write("Roses and leaves on matee cloth")
 
 st.image('decorativepiece.jpeg')
-st.write("decorative piece")
+st.write("Decorative piece")
 
  
 
