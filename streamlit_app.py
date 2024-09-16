@@ -111,7 +111,7 @@ st.image('Verticallyjoined squares.jpeg')
 st.write("Vertically joined squares") 
 
 st.image('rosesandleaves_matee cloth.jpeg')
-st.write("rosesandleaves_matee cloth")
+st.write("Roses andleaves on matee cloth")
 
 
  
