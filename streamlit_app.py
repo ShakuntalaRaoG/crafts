@@ -20,10 +20,7 @@ st.write(
 st.image("Cover_sofa.jpeg")
 st.write("Cover_sofa")
 
-st.image('decor.jpeg')
-st.write(
-    "decoration"
-)
+ 
 st.image('small_boots.jpeg')
 st.write(
     "Tiny boots")
