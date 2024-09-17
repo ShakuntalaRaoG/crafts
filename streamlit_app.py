@@ -168,6 +168,11 @@ st.warning("Small Poncho for toddlers")
 st.image('ponchoone.jpeg')
 st.warning("Poncho one")
 
+st.image('half sweater.jpeg')
+st.warning("Half sweater")
+
+ 
+
  
  
 
