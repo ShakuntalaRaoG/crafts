@@ -141,9 +141,14 @@ st.write("Full of flowers")
 st.image('pahilwanwearsit.jpeg')
 st.write("Pahilwan wears it!")
 
+st.image('portlands_crochai.jpeg')
+st.write("When in Portland crocheted")
+
 st.image('minibag.jpeg')
 st.write("Mini bag")
 
+
+ 
 
  
 
