@@ -138,6 +138,10 @@ st.write("Sleeveless sweater")
 st.image('fullflowers.jpeg')
 st.write("Full of flowers")
 
+st.image('muffler_one.jpeg')
+st.write("Muffler_one")
+ 
+
 st.image('pahilwanwearsit.jpeg')
 st.write("Pahilwan wears it!")
 
