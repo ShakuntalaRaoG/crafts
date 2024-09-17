@@ -121,6 +121,14 @@ st.write("Baby's long gown")
 
 st.image('babysskirt.jpeg')
 st.write("Baby's skirt")
+
+st.image('sweaterwithlongsleeves.jpeg')
+st.write("Baby's sweater with long sleeves")
+
+ 
+
+
+
  
  
 
