@@ -113,6 +113,11 @@ st.write("Roses and leaves on matee cloth")
 st.image('decorativepiece.jpeg')
 st.write("Decorative piece")
 
+st.image('grandchildsdoll.jpeg')
+st.write("Grand child decorates her dolls with wool cap and tatted neclace")
+
+ 
+
  
 
  
