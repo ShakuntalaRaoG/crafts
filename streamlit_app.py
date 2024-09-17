@@ -128,6 +128,9 @@ st.write("Baby's sweater with long sleeves")
 st.image('simlasweater.jpeg')
 st.write("simla sweater")
 
+st.image('grandchildsweater.jpeg')
+st.write("Grand child's sweater")
+
  
 
  
