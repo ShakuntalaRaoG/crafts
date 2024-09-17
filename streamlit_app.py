@@ -136,7 +136,7 @@ st.write("Sleeveless sweater")
 
 
 st.image('fullflowers.jpeg')
-st.write("Full of flowers")
+st.write("This type of one piece wrap is also called 'Poncho'-Full of flowers")
 
 st.image('muffler_one.jpeg')
 st.write("Muffler_one")
