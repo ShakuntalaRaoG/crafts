@@ -162,10 +162,15 @@ st.write("Mini bag")
 st.image('wraparoud.jpeg')
 st.warning("Wrap aroud")
 
+st.image('smallponcho.jpeg')
+st.warning("Small poncho for toddlers")
+
 
 
 
 # Poncho
+
+smallponcho.jpeg
 
  
 
