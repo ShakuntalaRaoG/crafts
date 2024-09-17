@@ -165,8 +165,8 @@ st.warning("Wrap aroud")
 st.image('smallponcho.jpeg')
 st.warning("Small Poncho for toddlers")
 
-st.image('poncho_1.jpeg')
-st.warning("Poncho_1")
+st.image('ponchoone.jpeg')
+st.warning("ponchoone.jpeg")
 
  
  
