@@ -136,7 +136,7 @@ st.write("Sleeveless sweater")
 
 
 st.image('fullflowers.jpeg')
-st.write("fullflowers")
+st.write("Full of flowers")
  
 
 
