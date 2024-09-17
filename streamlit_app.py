@@ -119,8 +119,9 @@ st.write("Grand child decorates her doll with wool cap, sweater and tatted neckl
 st.image('babyslonggoune.jpeg')
 st.write("Baby's long gown")
 
+st.image('babysskirt.jpeg')
+st.write("Baby's skirt")
  
-
  
 
  
