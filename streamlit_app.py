@@ -166,7 +166,7 @@ st.image('smallponcho.jpeg')
 st.warning("Small Poncho for toddlers")
 
 st.image('ponchoone.jpeg')
-st.warning("ponchoone.jpeg")
+st.warning("Poncho one")
 
  
  
