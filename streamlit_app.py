@@ -140,7 +140,9 @@ st.write("Full of flowers")
 
 st.image('muffler_one.jpeg')
 st.write("Muffler_one")
- 
+
+st.image('mufflertwo.jpeg')
+st.write("Muffler_two")
 
 st.image('pahilwanwearsit.jpeg')
 st.write("Pahilwan wears it!")
