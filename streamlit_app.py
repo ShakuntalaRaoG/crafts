@@ -163,14 +163,12 @@ st.image('wraparoud.jpeg')
 st.warning("Wrap aroud")
 
 st.image('smallponcho.jpeg')
-st.warning("Small poncho for toddlers")
+st.warning("Small Poncho for toddlers")
 
 
 
 
-# Poncho
-
-smallponcho.jpeg
+ 
 
  
 
