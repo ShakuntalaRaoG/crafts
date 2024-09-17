@@ -114,7 +114,7 @@ st.image('decorativepiece.jpeg')
 st.write("Decorative piece")
 
 st.image('grandchildsdoll.jpeg')
-st.write("Grand child decorates her doll with wool cap and tatted necklace")
+st.write("Grand child decorates her doll with wool cap, sweater and tatted necklace")
 
  
 
