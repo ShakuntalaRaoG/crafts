@@ -142,7 +142,7 @@ st.image('pahilwanwearsit.jpeg')
 st.write("Pahilwan wears it!")
 
 st.image('minibag.jpeg')
-st.write("Minibag")
+st.write("Mini bag")
 
 
  
