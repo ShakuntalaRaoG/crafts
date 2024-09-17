@@ -165,9 +165,10 @@ st.warning("Wrap aroud")
 st.image('smallponcho.jpeg')
 st.warning("Small Poncho for toddlers")
 
+st.image('poncho_1.jpeg')
+st.warning("Poncho_1")
 
-
-
+ 
  
 
  
