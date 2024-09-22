@@ -171,10 +171,10 @@ st.warning("Poncho one")
 st.image('half sweater.jpeg')
 st.warning("Half sweater")
 
-st.image('Frock.jpeg')
-st.write("Frock")
+# st.image('Frock.jpeg')
+# st.write("Frock")
 
-# Deploy
+# # Deploy
 
 
 
