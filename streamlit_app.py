@@ -176,6 +176,11 @@ st.warning("maharaja")
 
 st.image('mobilepurse.jpeg')
 st.warning("Mobilepurse")
+
+st.image('Frock.jpeg')
+st.warning("Frock")
+
+ 
  
 
 
