@@ -171,8 +171,11 @@ st.warning("Poncho one")
 st.image('half sweater.jpeg')
 st.warning("Half sweater")
 
+st.image('maharaja.jpeg')
+st.warning("maharaja")
 
 
+ 
 
  
 
