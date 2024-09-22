@@ -180,6 +180,11 @@ st.warning("Mobilepurse")
 st.image('Frock.jpeg')
 st.warning("Frock")
 
+
+st.image('giftitems.jpeg')
+st.warning("giftitems")
+ 
+
  
  
 
