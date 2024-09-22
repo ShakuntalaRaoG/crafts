@@ -182,7 +182,7 @@ st.warning("Frock")
 
 
 st.image('giftitems.jpeg')
-st.warning("giftitems")
+st.warning("Gift item")
  
 
  
