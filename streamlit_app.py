@@ -173,10 +173,7 @@ st.warning("Half sweater")
 
 
 
-st.image('container.jpeg')
-st.warning("container")
 
-# /Users/shakuntalarao/Downloads/container.jpeg
 
  
  
