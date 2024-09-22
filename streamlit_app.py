@@ -171,6 +171,11 @@ st.warning("Poncho one")
 st.image('half sweater.jpeg')
 st.warning("Half sweater")
 
+st.image('/Users/shakuntalarao/Downloads/Frock.jpeg')
+st.write("/Users/shakuntalarao/Downloads/Frock")
+
+
+
 
 
 
