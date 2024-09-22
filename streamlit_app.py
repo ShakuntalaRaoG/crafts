@@ -174,6 +174,10 @@ st.warning("Half sweater")
 st.image('maharaja.jpeg')
 st.warning("maharaja")
 
+st.image('mobilepurse.jpeg')
+st.warning("Mobilepurse")
+ 
+
 
  
 
