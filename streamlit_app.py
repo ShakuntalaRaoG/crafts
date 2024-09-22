@@ -171,8 +171,12 @@ st.warning("Poncho one")
 st.image('half sweater.jpeg')
 st.warning("Half sweater")
 
-st.image('mobilepurse.jpeg')
-st.warning("mobilepurse")
+
+
+st.image('container.jpeg')
+st.warning("container")
+
+# /Users/shakuntalarao/Downloads/container.jpeg
 
  
  
