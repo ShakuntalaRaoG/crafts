@@ -171,8 +171,8 @@ st.warning("Poncho one")
 st.image('half sweater.jpeg')
 st.warning("Half sweater")
 
-st.image('mobile_purse.jpeg')
-st.warning("mobile_purse")
+# st.image('mobile_purse.jpeg')
+# st.warning("mobile_purse")
  
  
  
